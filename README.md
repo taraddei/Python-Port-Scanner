@@ -138,8 +138,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📫 Contact
 
-Created by **Angela Taraddei**  
-📧 [angelamtaraddei@gmail.com](mailto:angelamtaraddei@gmail.com)  
+Created by **Angela T**  
 🌐 [GitHub Profile](https://github.com/taraddei)
 
 ---
