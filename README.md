@@ -143,6 +143,6 @@ Created by **Angela T**
 
 ---
 
-> 💡 *"Hackers don’t need names or proximity—just opportunity.”
+> 💡 *"Hackers don’t need names or proximity,just opportunity.”
 ― Robert Mueller, Former Director, FBI."*
 
